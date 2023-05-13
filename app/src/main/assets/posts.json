@@ -1,0 +1,42 @@
+[
+  {
+    "userName":"Hasanakttas",
+    "profileImage":"https://s01.diziler.com/original/23-04/28/i7rgow5c8.jpg",
+    "likeCount":153,
+    "commentCount":44,
+    "description":"Doğa harikası bir yer Bolu",
+    "postImage":"https://img.oyunkolu.com/minikresim/2019-10/ekstrem-araba-parkurlari.jpeg"
+  },
+  {
+    "userName":"omerdurmaz",
+    "profileImage":"https://cdn.britannica.com/37/242337-050-0B1577DC/Actor-Matt-Damon-Cannes-France-2021.jpg",
+    "likeCount":787,
+    "commentCount":78,
+    "description":"Hızlı ve Öfkeli 10, 19 Mayısta sinemalarda",
+    "postImage":"https://images.rawpixel.com/image_1000/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2ZyYWxiZXJ0X2VpbnN0ZWluX3BvcnRyYWl0XzExNDQ5NjUtaW1hZ2Uta3oyZHpncGQuanBn.jpg"
+  },
+  {
+    "userName":"kadirkesimal",
+    "profileImage":"https://tr.web.img3.acsta.net/r_654_368/newsv7/22/06/23/08/55/1783603.jpg",
+    "likeCount":535,
+    "commentCount":53,
+    "description":"Çamlıhemşinden selamlar.",
+    "postImage":"https://i.kym-cdn.com/entries/icons/original/000/011/946/Bazinga-Sheldon-Cooper-The-Big-Bang-Theory-85831432.jpg"
+  },
+  {
+    "userName":"miraccln",
+    "profileImage":"https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3M3MS1tY2tpbnNleS0xMTQwLWNoaW1fMS5qcGc.jpg",
+    "likeCount":4444,
+    "commentCount":444,
+    "description":"",
+    "postImage":"https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BkMTcxLTA3NS1nbG95LmpwZw.jpg"
+  },
+  {
+    "userName":"galatasaray",
+    "profileImage":"https://www.freepnglogos.com/uploads/galatasaray-logo-png/gs-arma-sari-yildizlar-1905-galatasaray-amblemi-1.png",
+    "likeCount":345878,
+    "commentCount":1578,
+    "description":"Muhteşem Galibiyet",
+    "postImage":"https://www.footyrenders.com/render/galatasaray-team-390x319.png"
+  }
+]

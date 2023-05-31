@@ -1,8 +1,8 @@
 # instagram-clone-app
 
-instagram uygulamasına giriş için 
+instagram uygulamasına giriş Yapmak;
 
-Username: hasan
+Username: hasan 
 
 Password: aktas1
 
